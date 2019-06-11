@@ -1,0 +1,4 @@
+https://pandas.pydata.org/
+
+conda install pandas
+pip install pandas
